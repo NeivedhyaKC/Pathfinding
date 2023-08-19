@@ -1,0 +1,10 @@
+﻿  Game.cpp
+D:\Game Programming\SFML\Pathfinding\Pathfinding\Game.cpp(31,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Programming\SFML\Pathfinding\Pathfinding\Game.cpp(31,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Programming\SFML\Pathfinding\Pathfinding\Game.cpp(143,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Node.cpp
+D:\Game Programming\SFML\Pathfinding\Pathfinding\Node.cpp(28,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Game Programming\SFML\Pathfinding\Pathfinding\Node.cpp(32,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Pathfinding.vcxproj -> D:\Game Programming\SFML\Pathfinding\Debug\Pathfinding.exe
